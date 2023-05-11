@@ -46,7 +46,7 @@ During each stage of my career, I was driven every time by my passion to learn n
 
 ## My Stats
 
-[![Abdurrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahman-Ra&show_icons=true&theme=vision-friendly-dark)](https://github.com/Abrahman-Ra/github-readme-stats)
+[![Abdurrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahman-Ra&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
