@@ -71,3 +71,7 @@ During each stage of my career, I was driven every time by my passion to learn n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahman-Ra&size_weight=0.5&count_weight=0.5&layout=donut&theme=radical)](https://github.com/Abrahman-Ra/github-readme-stats)
 
 ### Gentle Note: HTML is taking the lead because the md & rmd files are translated into HTML. It's not an accurate indicator
+
+### Without HTML
+
+[![Top Langs no HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahman-Ra&size_weight=0.5&count_weight=0.5&layout=donut&theme=radical&hide=html)](https://github.com/Abrahman-Ra/github-readme-stats)
