@@ -1,77 +1,29 @@
-# **My Portfolio**
+<h1 align="center">Hi 👋, I'm Abdurrahman</h1>
+<h3 align="center">A Software Engineer to be ⏳️</h3>
 
-## Hello Everyone :wave:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahman-ra&label=Profile%20views&color=0e75b6&style=flat" alt="abrahman-ra" /> </p>
 
-My Name is Abdurrahman Tantawi. I am currently a JavaScript Addict 👨‍💻.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahman-ra" alt="abrahman-ra" /></a> </p>
 
----
+- 🌱 I’m currently learning **MongoDB**
 
-## About Me
+- 👨‍💻 All of my projects are available at [Github.com/AbRahman-Ra](Github.com/AbRahman-Ra)
 
-I am a fresh Mechanical Engineer who loves the field of IT. I am good at engineering too (graduated with honors), but I enjoy coding. I can learn anything & deep dive into the piece of information. I am self-motivated and self learning.
+- 💬 Ask me about **HTML, CSS, Vanilla JS, Node.js, Express.js, API Development**
 
---
+- 📫 How to reach me **Abdurrahman.tantawi@gmail.com**
 
-### **Let's talk a bit more about my qualities:**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abrahman_ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrahman_ra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abrahman-ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrahman-ra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abdurrahman-ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdurrahman-ra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abrahman-ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrahman-ra" height="30" width="40" /></a>
+</p>
 
-- [ ] I am a future Computer Scientist 🤞⏳
-- [x] I have 3+ years of experience as a private tutor.
-  - Keep it to me if it's requiring communication skills
-- [x] I have a 2+ years as a Graphic Designer :artist:
-- [x] I am a Google-Certified Data Analyst
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahman-ra&show_icons=true&locale=en&layout=compact" alt="abrahman-ra" /></p>
 
-### My Google Data Analytics Capstone Project
-
-[![Bellabeat Data Analytics Capstone Project](https://github-readme-stats.vercel.app/api/pin/?username=Abrahman-ra&theme=nightowl&repo=Bellabeat-DA-Project)](https://github.com/Abrahman-Ra/Bellabeat-DA-Project)
-
-- It went really nice, I believe I did a pretty good analysis and documentation
-
---
-
-During each stage of my career, I was driven every time by my passion to learn new things. To stand out from the norm. Again, this time, I am learning JS & Web Development to expand my skillset & enhance my transferable skills such as analytical thinking, problem solving & decision making.
-
----
-
-## Contact Me
-
-### [Email](abdurrahman.tantawi@gmail.com) 📧
-
-### [LinkedIn](www.linkedIn.com/in/AbRahman-Ra) ⏺️
-
-### [Twitter](https://twitter.com/AbRahman_Ra) 🐦
-
----
-
-## My Stats
-
-[![Abdurrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahman-Ra&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## My Best Projects
-
-### Simple To-Do List
-
-[![Simple To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=Abrahman-ra&theme=nightowl&repo=To-Do-List)](https://github.com/Abrahman-Ra/To-Do-List)
-
-### Verification Code Simulator
-
-[![Verification Code Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Abrahman-ra&theme=nightowl&repo=Verify-Code-Simulator)](https://github.com/Abrahman-Ra/Verify-Code-Simulator)
-
-### My First Ever HTML Project (Special to Me ❤️)
-
-[![My First HTML Project](https://github-readme-stats.vercel.app/api/pin/?username=Abrahman-ra&theme=nightowl&repo=My-First-HTML-Project)](https://github.com/Abrahman-Ra/My-First-HTML-Project)
-
----
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahman-Ra&size_weight=0.5&count_weight=0.5&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Gentle Note: HTML is taking the lead because the md & rmd files are translated into HTML. It's not an accurate indicator
-
-### Without HTML
-
-[![Top Langs no HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahman-Ra&size_weight=0.5&count_weight=0.5&layout=donut&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahman-ra&show_icons=true&locale=en" alt="abrahman-ra" /></p>
