@@ -1,21 +1,21 @@
 <h1 align="center">Welcome, Welcome, Welcome!</h1>
 
----
+###
 
 <h2 align="left">I am Abdurrahman, a Software Engineer to Be 🚀</h2>
 
----
+###
 
 <p align="left">
   Currently learning Backend Development, and surrounded by great, supportive
   people 💖
 </p>
 
----
+###
 
 <h2 align="left">I code with</h2>
 
----
+###
 
 <div align="left">
   <img
@@ -55,18 +55,18 @@
   />
 </div>
 
----
+###
 
 <h2 align="left">I am proud of</h2>
 
----
+###
 
 <p align="left">
   ✨ Writing clean and maintainable code<br />🦾 Writing a11y friendly code
   ❤️<br />📚 Writing clear documentations
 </p>
 
----
+###
 
 <h2 align="left">
   <a href="http://arabic-pop-icons.onrender.com" target="_blank"
@@ -74,11 +74,11 @@
   >
 </h2>
 
----
+###
 
 <h2 align="left">I am currently learning</h2>
 
----
+###
 
 <div align="left">
   <img
@@ -100,11 +100,11 @@
   />
 </div>
 
----
+###
 
 <h2 align="left">My Stats</h2>
 
----
+###
 
 <div align="center">
   <img
@@ -119,11 +119,11 @@
   />
 </div>
 
----
+###
 
 <h2 align="left">Contact & Follow</h2>
 
----
+###
 
 <div align="left">
   <a href="https://linkedin.com/in/abrahman-ra" target="_blank">
@@ -152,4 +152,4 @@
   </a>
 </div>
 
----
+###
