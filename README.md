@@ -150,6 +150,13 @@
       alt="youtube logo"
     />
   </a>
+  <a href="https://leetcode.com/AbRahman-Ra" target="_blank">
+    <img
+      src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"
+      width="52"
+      alt="leetcode logo"
+    />
+  </a>
 </div>
 
 ###
