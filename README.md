@@ -154,6 +154,7 @@
     <img
       src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"
       width="52"
+      height="40"
       alt="leetcode logo"
     />
   </a>
