@@ -39,6 +39,11 @@
     alt="typescript logo"
   />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    height="40"
+    alt="vue.js logo"
+  />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="40"
     alt="nodejs logo"
