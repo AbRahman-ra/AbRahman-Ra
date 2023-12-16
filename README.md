@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I deal / code with</h2>
 
 ###
 
@@ -48,21 +48,34 @@
     height="40"
     alt="nodejs logo"
   />
-  <img
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     height="40"
+    class="express"
+    style="filter: invert(50%) sepia(8%) saturate(985%) hue-rotate(177deg) brightness(97%) contrast(90%);"
     alt="express logo"
   />
-  <img
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="40"
     alt="mongodb logo"
   />
-  <img
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     height="40"
     alt="git logo"
   />
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+    height="40"
+    alt="postgresql logo"
+  />
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+    height="40"
+    alt="ubuntu logo"
+  />
+
 </div>
 
 ###
@@ -92,9 +105,9 @@
 
 <div align="left">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
     height="40"
-    alt="mongodb logo"
+    alt="laravel logo"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
