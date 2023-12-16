@@ -142,11 +142,11 @@
 
 <section align="left" style="display: flex; width: 100%; justify-content: center;">
     
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" margin="1rem"/>](https://linkedin.com/in/abrahman-ra)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo" style="margin: auto 1rem" />](https://twitter.com/AbRahman_Ra)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="margin: auto 1rem"/>](https://youtube.com/@abdurrahman-ra)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="40" alt="leetcode logo" style="margin: auto 1rem"/>](https://leetcode.com/AbRahman-Ra)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"/>](https://linkedin.com/in/abrahman-ra)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo" />](https://twitter.com/AbRahman_Ra)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>](https://youtube.com/@abdurrahman-ra)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="40" alt="leetcode logo" />](https://leetcode.com/AbRahman-Ra)
 
-</div>
+</section>
 
 ###
