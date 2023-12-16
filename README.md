@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am Abdurrahman, a Software Engineer to Be 🚀</h2>
+<h2 align="left">I am Abdurrahman, a Self-motivated Software Engineer 🚀</h2>
 
 ###
 
@@ -51,7 +51,6 @@
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     height="40"
-    class="express"
     style="filter: invert(50%) sepia(8%) saturate(985%) hue-rotate(177deg) brightness(97%) contrast(90%);"
     alt="express logo"
   />
