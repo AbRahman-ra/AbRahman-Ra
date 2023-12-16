@@ -141,7 +141,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/abrahman-ra" target="_blank" style="text-decoration: none">
+  <a href="https://linkedin.com/in/abrahman-ra" target="_blank" style="text-decoration: none !important">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="52"
@@ -157,7 +157,7 @@
       alt="twitter logo"
     />
   </a>
-  <a href="https://youtube.com/@abdurrahman-ra" target="_blank" style="text-decoration: none">
+  <a href="https://youtube.com/@abdurrahman-ra" target="_blank" style="text-decoration: none !important">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
       width="52"
@@ -165,7 +165,7 @@
       alt="youtube logo"
     />
   </a>
-  <a href="https://leetcode.com/AbRahman-Ra" target="_blank" style="text-decoration: none">
+  <a href="https://leetcode.com/AbRahman-Ra" target="_blank" style="text-decoration: none !important">
     <img
       src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"
       height="40"
