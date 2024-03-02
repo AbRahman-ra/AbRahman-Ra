@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <h1 align="center">Welcome, Welcome, Welcome!</h1>
 
 ###
@@ -13,9 +15,10 @@
 
 ###
 
-<h2 align="left">I deal / code with</h2>
+<h2 align="left">I Code With These Languages</h2>
 
 ###
+
 
 <div align="left">
   <img
@@ -38,10 +41,21 @@
     height="40"
     alt="typescript logo"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg"
     height="40"
-    alt="vue.js logo"
+  />
+
+###
+
+<h2 align="left">I Use These Technologies</h2>
+
+###
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"
+    height="40"
+    alt="laravel logo"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -59,6 +73,11 @@
     height="40"
     alt="mongodb logo"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    height="40"
+    alt="vue.js logo"
+  />
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     height="40"
@@ -70,7 +89,12 @@
     alt="postgresql logo"
   />
 <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
+    height="40"
+    alt="MySql Logo"
+  />
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     height="40"
     alt="ubuntu logo"
   />
@@ -90,34 +114,26 @@
 
 ###
 
-<h2 align="left">
-  <a href="http://arabic-pop-icons.onrender.com" target="_blank"
-    >My Best Project (So Far)</a
-  >
-</h2>
-
-###
-
 <h2 align="left">I am currently learning</h2>
 
 ###
 
 <div align="left">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"
     height="40"
     alt="laravel logo"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain.svg"
     height="40"
-    alt="jest logo"
+    alt="laravel logo"
   />
 </div>
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">My Stats GitHub Stats</h2>
 
 ###
 
