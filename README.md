@@ -102,11 +102,11 @@
 ###
 
 <p align="left">
-  [x] ✨ Writing clean and maintainable code
+  <input type="checkbox" checked /> ✨ Writing clean and maintainable code
   <br />
-  [x] 🦾 Writing a11y friendly code
+  <input type="checkbox" checked /> 🦾 Writing a11y friendly code
   ❤️<br />
-  [x] 📚 Writing clear documentations
+  <input type="checkbox" checked /> 📚 Writing clear documentations
 </p>
 
 ###
