@@ -101,13 +101,9 @@
 
 ###
 
-<p align="left">
-  <input type="checkbox" checked /> ✨ Writing clean and maintainable code
-  <br />
-  <input type="checkbox" checked /> 🦾 Writing a11y friendly code
-  ❤️<br />
-  <input type="checkbox" checked /> 📚 Writing clear documentations
-</p>
+- [x] ✨ Writing clean and maintainable code
+- [x] 🦾 Writing a11y friendly code
+- [x] 📚 Writing clear documentations
 
 ###
 
