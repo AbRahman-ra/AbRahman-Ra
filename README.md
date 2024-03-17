@@ -15,10 +15,13 @@
 
 ###
 
-<h2 align="left">I Code With These Languages</h2>
+<h2 align="left"><a href="https://docs.google.com/document/d/1o9XXRWyCkjItJyNBFsoxU2kT7OvhKbVyEIYu8gN3Qd4/edit?usp=sharing">Access My Resume Here</a></h2>
 
 ###
 
+<h2 align="left">I Code With These Languages</h2>
+
+###
 
 <div align="left">
   <img
@@ -52,48 +55,39 @@
 
 ###
 
-  <img
+<img
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"
     height="40"
     alt="laravel logo"
-  />
-  <img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="40"
     alt="nodejs logo"
-  />
-<img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     height="40"
-    style="filter: invert(50%) sepia(8%) saturate(985%) hue-rotate(177deg) brightness(97%) contrast(90%);"
     alt="express logo"
-  />
-<img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="40"
     alt="mongodb logo"
-  />
-  <img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
     height="40"
     alt="vue.js logo"
-  />
-<img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     height="40"
     alt="git logo"
-  />
-<img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
     height="40"
     alt="postgresql logo"
-  />
-<img
+  /> <img
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
     height="40"
     alt="MySql Logo"
-  />
-<img
+  /> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     height="40"
     alt="ubuntu logo"
@@ -108,8 +102,11 @@
 ###
 
 <p align="left">
-  ✨ Writing clean and maintainable code<br />🦾 Writing a11y friendly code
-  ❤️<br />📚 Writing clear documentations
+  [x] ✨ Writing clean and maintainable code
+  <br />
+  [x] 🦾 Writing a11y friendly code
+  ❤️<br />
+  [x] 📚 Writing clear documentations
 </p>
 
 ###
