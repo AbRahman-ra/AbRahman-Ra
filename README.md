@@ -15,10 +15,6 @@
 
 ###
 
-<h2 align="left"><a href="https://docs.google.com/document/d/1o9XXRWyCkjItJyNBFsoxU2kT7OvhKbVyEIYu8gN3Qd4/edit?usp=sharing">Access My Resume Here</a></h2>
-
-###
-
 <h2 align="left">I Code With These Languages</h2>
 
 ###
