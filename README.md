@@ -1,16 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <h1 align="center">Hi there, I'm Abdurrahman 👋, a Backend Developer</h1>
-<h3 align="center"> Access <a href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | Email Me at: <a href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
-
-###
-
-
-<h2 align="center">Currently solving business problems in <strong>Java, Spring Framework and Spring Boot</strong></h2>
-
-<p align="center">
-  In love with modernizing legacy applications, migrating architectures, solving complex problems and even coding as a hobby!
-</p>
+<h2 align="center">Currently solving business problems and modernizing legacy systems in <strong>Java, Spring Framework and Spring Boot</strong></h2>
+<h2 align="center"><a href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | <a href="https://linkedin.com/in/abrahman-ra">My LinkedIn</a> | Email me at: <a href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
 
 ###
 
@@ -75,6 +67,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" title="Bun" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="40" alt="mongoose" title="Mongoose" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq" title="RabbitMQ" />
@@ -89,3 +82,8 @@
 - Building a solid fundamentals in [Networking](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/), thanks Hussain Nasser
 - Learning [Software Architecture](https://www.udemy.com/course/software-architecture-essentials/), thanks Hassan Ibrahim
 - Diving Deeper in [Spring Framework](https://www.manning.com/books/spring-start-here), thanks Laurentiu Spilca
+
+---
+
+<br>
+<p align="right"><i>Last Updated: February 2026</i></p>
