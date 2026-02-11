@@ -1,157 +1,91 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<h1 align="center">Welcome, Welcome, Welcome!</h1>
+<h1 align="center">Hi there, I'm Abdurrahman 👋, a Backend Developer</h1>
+<h3 align="center"> Access <a href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | Email Me at: <a href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
 
 ###
 
-<h2 align="left">I am Abdurrahman, a Self-motivated Software Engineer 🚀</h2>
 
-###
+<h2 align="center">Currently solving business problems in <strong>Java, Spring Framework and Spring Boot</strong></h2>
 
-<p align="left">
-  Currently learning Backend Development, and surrounded by great, supportive
-  people 💖
+<p align="center">
+  In love with modernizing legacy applications, migrating architectures, solving complex problems and even coding as a hobby!
 </p>
 
 ###
 
-<h2 align="left">I Code With These Languages</h2>
+<h2 align="left">My Open-source Contributions:</h2>
+
+### 1. [PHP Oauth1 Client Issue Fix Contribution (PR)](https://github.com/thephpleague/oauth1-client/pull/153)
+
+- Pinpointed and fixed a critical SSO authentication bug for X (formerly Twitter) in Laravel Socialite, with a pull request with a clear solution document
+
+### 2. PHP ZATCA Integration ([attempt 1 (deprecated)](https://github.com/AbRahman-ra/zatca-api-guideline) and [attempt 2 (deprecated)](https://github.com/AbRahman-ra/php-zatca-xml))
+
+### With my current knowledge and expertise in business as well as Java on the technical side, there is a strong consideration to return back to the project and build something real
+
+- Attempted to integrate Zakat, Tax & Customs Authority in Laravel Application by prototyping a simple package with a detailed documentation.
+- Attempted to create a PHP package as an XML parser for e-invoicing required by ZATCA phase II.
+
+### 3. I have Explained [Head First Object-oriented Analysis & Design](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/) Book's Content In Arabic, in this [YouTube Playlist](https://youtube.com/playlist?list=PLCLsSRg9rUdMNIOM12vn7JgpPGFyC5wmK&si=T835PZiEUFoTmSTJ)
+
+###
+
+<h2 align="left">My Professional Certificates</h2>
+
+- [AWS Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/d63db359-6644-4ded-9cf8-a047ccf22c0d/public_url)
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/effffd05-bdb0-4e50-abe1-1e6ef72fb1ca/public_url)
+
+###
+
+<h2 align="left">My Current Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="40"
-    alt="html5 logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    alt="css3 logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    alt="javascript logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="40"
-    alt="typescript logo"
-  />
-   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg"
-    height="40"
-  />
-
-###
-
-<h2 align="left">I Use These Technologies</h2>
-
-###
-
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"
-    height="40"
-    alt="laravel logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="40"
-    alt="nodejs logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    height="40"
-    alt="express logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="40"
-    alt="mongodb logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-    height="40"
-    alt="vue.js logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    height="40"
-    alt="git logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
-    height="40"
-    alt="postgresql logo"
-  /> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
-    height="40"
-    alt="MySql Logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-    height="40"
-    alt="ubuntu logo"
-  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Framework & Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" height="40" alt="thymeleaf" title="Thymeleaf" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git" title="Git" />
 </div>
 
 ###
 
-<h2 align="left">I am proud of</h2>
-
-###
-
-- [x] ✨ Writing clean and maintainable code
-- [x] 🦾 Writing a11y friendly code
-- [x] 📚 Writing clear documentations
-
-###
-
-<h2 align="left">I am currently learning</h2>
+<h2 align="left">However, I have proven experience working with</h2>
 
 ###
 
 <div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"
-    height="40"
-    alt="laravel logo"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain.svg"
-    height="40"
-    alt="laravel logo"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vue" title="Vue.js" />
 </div>
 
 ###
 
-<h2 align="left">My Stats GitHub Stats</h2>
+<h2 align="left">And hands-on experience with</h2>
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abrahman-ra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1"
-    height="225"
-    alt="stats graph"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=abrahman-ra&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3"
-    height="250"
-    alt="streak graph"
-  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" title="Bun" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="40" alt="mongoose" title="Mongoose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python" title="Python" />
 </div>
 
 ###
 
-<h2 align="left">Contact & Follow</h2>
+<h2 align="left">My Next-on Steps (updated 02/2026)</h2>
 
-###
-
-<section align="left" style="display: flex; width: 100%; justify-content: center;">
-    
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"/>](https://linkedin.com/in/abrahman-ra)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo" />](https://twitter.com/AbRahman_Ra)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>](https://youtube.com/@abdurrahman-ra)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="40" alt="leetcode logo" />](https://leetcode.com/AbRahman-Ra)
-
-</section>
-
-###
+- Getting Back to ZATCA
+- Building a solid fundamentals in [Networking](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/), thanks Hussain Nasser
+- Learning [Software Architecture](https://www.udemy.com/course/software-architecture-essentials/), thanks Hassan Ibrahim
+- Diving Deeper in [Spring Framework](https://www.manning.com/books/spring-start-here), thanks Laurentiu Spilca
