@@ -12,12 +12,12 @@
 
 - Pinpointed and fixed a critical SSO authentication bug for X (formerly Twitter) in Laravel Socialite, with a pull request with a clear solution document
 
-### 2. PHP ZATCA Integration ([attempt 1 (deprecated)](https://github.com/AbRahman-ra/zatca-api-guideline) and [attempt 2 (deprecated)](https://github.com/AbRahman-ra/php-zatca-xml))
+### 2. ZATCA (FATOORA) Phase 2 E-Invoicing Integration
 
-### With my current knowledge and expertise in business as well as Java on the technical side, there is a strong consideration to return back to the project and build something real
+*Currently building a robust Java/Spring Boot SDK for Saudi Arabia's ZATCA compliance. This builds upon my foundational prototyping:*
 
-- Attempted to integrate Zakat, Tax & Customs Authority in Laravel Application by prototyping a simple package with a detailed documentation.
-- Attempted to create a PHP package as an XML parser for e-invoicing required by ZATCA phase II.
+- **[PHP ZATCA XML Parser](https://github.com/AbRahman-ra/php-zatca-xml):** Prototyped the complex XML generation and cryptographic hashing required for Phase 2 clearance.
+- **[Laravel ZATCA API Prototype](https://github.com/AbRahman-ra/zatca-api-guideline):** Developed an initial integration guideline package with detailed documentation for the Zakat, Tax & Customs Authority APIs.
 
 ### 3. I have Explained [Head First Object-oriented Analysis & Design](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/) Book's Content In Arabic, in this [YouTube Playlist](https://youtube.com/playlist?list=PLCLsSRg9rUdMNIOM12vn7JgpPGFyC5wmK&si=T835PZiEUFoTmSTJ)
 
@@ -41,8 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
 </div>
 
 ###
@@ -66,20 +66,16 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" title="Bun" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="40" alt="mongoose" title="Mongoose" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq" title="RabbitMQ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python" title="Python" />
 </div>
 
 ###
 
 <h2 align="left">My Next-on Steps (updated 02/2026)</h2>
 
-- Getting Back to ZATCA
-- Building a solid fundamentals in [Networking](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/), thanks Hussain Nasser
+- Building a solid fundamental in [Networking](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/), thanks Hussain Nasser
 - Learning [Software Architecture](https://www.udemy.com/course/software-architecture-essentials/), thanks Hassan Ibrahim
 - Diving Deeper in [Spring Framework](https://www.manning.com/books/spring-start-here), thanks Laurentiu Spilca
 
