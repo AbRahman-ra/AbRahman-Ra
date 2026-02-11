@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Abdurrahman 👋, a Backend Developer</h1>
 <h2 align="center">Currently solving business problems and modernizing legacy systems in <strong>Java, Spring Framework and Spring Boot</strong></h2>
-<h2 align="center"><a href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | <a href="https://linkedin.com/in/abrahman-ra">My LinkedIn</a> | Email me at: <a href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
+<h2 align="center"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/abrahman-ra">My LinkedIn</a> | Email me at: <a target="_blank" rel="noopener noreferrer" href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
 
 ###
 
