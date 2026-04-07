@@ -12,7 +12,7 @@
 
 - Pinpointed and fixed a critical SSO authentication bug for X (formerly Twitter) in Laravel Socialite, with a pull request with a clear solution document
 
-### 2. ZATCA (FATOORA) Phase 2 E-Invoicing Integration
+### 2. [ZAXEG [ZATCA XML E-invoice Generator]](https://github.com/abrahman-ra/zaxeg) (In Progress)
 
 *Currently building a robust Java/Spring Boot SDK for Saudi Arabia's ZATCA compliance. This builds upon my foundational prototyping:*
 
