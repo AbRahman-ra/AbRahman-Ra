@@ -19,7 +19,13 @@
 - **[PHP ZATCA XML Parser](https://github.com/AbRahman-ra/php-zatca-xml):** Prototyped the complex XML generation and cryptographic hashing required for Phase 2 clearance.
 - **[Laravel ZATCA API Prototype](https://github.com/AbRahman-ra/zatca-api-guideline):** Developed an initial integration guideline package with detailed documentation for the Zakat, Tax & Customs Authority APIs.
 
-### 3. I have Explained [Head First Object-oriented Analysis & Design](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/) Book's Content In Arabic, in this [YouTube Playlist](https://youtube.com/playlist?list=PLCLsSRg9rUdMNIOM12vn7JgpPGFyC5wmK&si=T835PZiEUFoTmSTJ)
+### 3. [Moyasar PHP](https://github.com/hamoda-dev/moyasar-php/)
+
+- Collaborating with [hamoda-dev](https://github.com/hamoda-dev) to build a seamless integration experience for PHP Developers with one of the lead payment gateways in Saudi Arabia
+- [Latest PR (Jun 2026): Refactoring Invoice Module (Enhance Directory Structure, Naming, Data Types, Type Casting & Logic Flow)](https://github.com/hamoda-dev/moyasar-php/pull/6)
+  - [Previous PRs](https://github.com/hamoda-dev/moyasar-php/pulls?q=is%3Apr+author%3AAbRahman-ra+)
+
+### 4. I have Explained [Head First Object-oriented Analysis & Design](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/) Book's Content In Arabic, in this [YouTube Playlist](https://youtube.com/playlist?list=PLCLsSRg9rUdMNIOM12vn7JgpPGFyC5wmK&si=T835PZiEUFoTmSTJ)
 
 ###
 
