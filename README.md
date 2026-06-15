@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<h1 align="center">Hi there, I'm Abdurrahman 👋, a Backend Developer</h1>
-<h2 align="center">Currently solving business problems and modernizing legacy systems in <strong>Java, Spring Framework and Spring Boot</strong></h2>
-<h2 align="center">In Love with Kotlin too 😺</strong></h2>
+<h1 align="center">Hi there, I'm Abdurrahman 👋, a Software Developer</h1>
+<h2 align="center">Currently solving business problems and modernizing legacy systems in <strong>Java ☕, Spring Framework 🍃 and Spring Boot</strong></h2>
+<h2 align="center">I have done a lot of work in PHP too 🐘. Currently, I am in love with Kotlin 😺</h2>
 <h2 align="center"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1XSt2QbcZ3WhKmHkbkIyhEVhqY046QMyOTxEIT1wxKZk/edit?usp=sharing">My Resume</a> | <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/abrahman-ra">My LinkedIn</a> | Email me at: <a target="_blank" rel="noopener noreferrer" href="mailto:abdurrahman.tantawi@gmail.com">abdurrahman.tantawi@gmail.com</a></h2>
 
 ###
@@ -58,6 +58,7 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="laravel" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="Javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="Typescript" />
@@ -83,8 +84,7 @@
 
 <h2 align="left">My Next-on Steps (updated 02/2026)</h2>
 
-- Building a solid fundamental in [Networking](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/), thanks Hussain Nasser
-- Learning [Software Architecture](https://www.udemy.com/course/software-architecture-essentials/), thanks Hassan Ibrahim
+- Building a solid fundamental in [Operating Systems](https://www.udemy.com/course/fundamentals-of-operating-systems/), thanks Hussain Nasser
 - Diving Deeper in [Spring Framework](https://www.manning.com/books/spring-start-here), thanks Laurentiu Spilca
 
 ---
